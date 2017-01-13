@@ -3,8 +3,8 @@
     return array(
         'driver'   => 'mysql',
         'host'     => 'localhost',
-        'user'     => 'root',
-        'password' => 'Mycomputer09.',
+        'user'     => '',
+        'password' => '',
         'database' => 'amb',
         'charset'  => 'utf8'
     );
